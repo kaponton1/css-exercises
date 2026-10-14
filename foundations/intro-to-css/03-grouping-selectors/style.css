@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+.first,
+.second {
+  color: black;
+  font-size: 28px;
+  font-family:
+    Helvetica,
+    Times New Rowman,
+    sans-serif;
+}
+
+.first {
+  background-color: black;
+  color: white;
+}
+.second {
+  background-color: yellow;
+}
